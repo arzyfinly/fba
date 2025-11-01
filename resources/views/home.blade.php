@@ -256,8 +256,28 @@
                                                 <div class="teaching-content teaching-content--style2">
                                                     <div class="sec-title">
                                                         <h2>Sambutan Dekan</h2>
-                                                        <div class="sub-title">
-                                                            <p>Selamat datang di pusat informasi FBA - UNIBA Madura.</p>
+                                                        <div class="sub-title text-justify">
+                                                                <p>Assalamu’alaikum warahmatullahi wabarakatuh.</p>
+
+
+                                                                <p>Puji syukur ke hadirat Allah SWT atas limpahan rahmat-Nya sehingga website resmi <span class="highlight">Fakultas Bahasa Asing (FBA)</span> Universitas KH. Bahaudin Mudhary Madura dapat hadir sebagai sarana informasi dan komunik
+                                                                •
+                                                                asi bagi sivitas akademika serta masyarakat luas.</p>
+
+
+                                                                <p>Website ini menampilkan profil, kegiatan akademik, penelitian, dan pengabdian masyarakat, serta menjadi jembatan kolaborasi antara fakultas dan mitra luar. Kami berkomitmen menyediakan informasi yang <span class="highlight">transparan, dinamis, dan mendukung pengembangan pendidikan bahasa dan budaya asing</span>.</p>
+
+
+                                                                <p>Fakultas Bahasa Asing menaungi <span class="highlight">Program Studi Bahasa dan Kebudayaan Inggris</span>, yang berdiri berdasarkan SK Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor <span class="sk">69/E/O/2024</span>. Visi kami adalah: “Menjadi Fakultas Bahasa Asing yang Unggul, Mandiri, dan Berkualitas dalam Pengembangan Ilmu Bahasa dan Budaya Asing yang Berorientasi Global dan Berakar pada Nilai-nilai Pancasila.”</p>
+
+
+                                                                <p>Kami mewujudkan visi tersebut melalui pendidikan, penelitian, dan pengabdian masyarakat yang menekankan literasi, pelatihan bahasa, dan pelestarian budaya lokal. Dengan pembelajaran berbasis riset dan internasionalisasi, FBA bertekad mencetak lulusan yang adaptif, kreatif, dan berwawasan global.</p>
+
+
+                                                                <p>Terima kasih kepada semua pihak yang telah mendukung pengembangan Fakultas Bahasa Asing UNIBA Madura. Semoga usaha kita bersama membawa fakultas ini menuju keunggulan dan daya saing di tingkat nasional maupun internasional.</p>
+
+
+                                                                <p>Wassalamu’alaikum warahmatullahi wabarakatuh.<br><br>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -454,14 +474,13 @@
                                                         <!--Start Single Testimonial Style9-->
                                                         <div class="single-testimonial-style9 text-center">
                                                             <div class="text">
-                                                                <p><b>Manajemen</b> adalah program studi yang mempelajari
-                                                                    mengenai bagaimana mengelola suatu perusahaan atau organisasi.
-                                                                    Manajemen juga termasuk dalam bidang bisnis dan ekonomi,
-                                                                    tetapi lebih terfokus pada kegiatan mengelola, merencanakan, dan
-                                                                    mengatur (manajemen) semua proses dalam perusahaan untuk mencapai tujuan.</p>
+                                                                <p><b>Bahasa dan Kebudayaan Inggris</b>
+                                                                    adalah jurusan yang mempelajari bahasa Inggris secara mendalam,
+                                                                    tidak hanya dari aspek linguistik dan sastra,
+                                                                    tetapi juga hubungannya dengan budaya dan sejarah negara-negara berbahasa Inggris.</p>
                                                             </div>
                                                             <div class="client-name">
-                                                                <h3>Manajemen</h3>
+                                                                <h3>Bahasa dan Kebudayaan Inggris</h3>
                                                             </div>
                                                                 <div class="btn-box">
                                                                     <a href="#">
@@ -471,24 +490,6 @@
                                                         </div>
                                                         <!--End Single Testimonial Style9-->
                                                         <!--Start Single Testimonial Style9-->
-                                                        <div class="single-testimonial-style9 text-center">
-                                                            <div class="text">
-                                                                <p><b>Akuntansi</b> ialah belajar cara memelihara keuangan.
-                                                                    Ini mempersiapkan siswa untuk menjadi akuntan dengan
-                                                                    mengajar mereka tentang prinsip-prinsip akuntansi
-                                                                    seperti audit, pelaporan, penganggaran dan peraturan pajak.
-                                                                </p>
-                                                            </div>
-                                                            <div class="client-name">
-                                                                <h3>Akuntansi</h3>
-                                                            </div>
-                                                                <div class="btn-box">
-                                                                    <a href="#">
-                                                                        <span class="icon-right-arrow-1"></span>
-                                                                    </a>
-                                                            </div>
-                                                        </div>
-                                                        <!--End Single Testimonial Style9-->
                                                     </div>
                                                 </div>
                                             </div>

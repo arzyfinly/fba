@@ -66,27 +66,23 @@
                             <ul id="menu-footer-useful-links-v2" class="menu">
                                 <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">Manajemen</a>
+                                    <a href="https://sasing.unibamadura.ac.id" onClick="return true">Bahasa dan Kebudayaan Inggris</a>
                                 </li>
                                 <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">Akuntansi</a>
+                                    <a href="https://siakad.unibamadura.ac.id" onClick="return true">SIAKAD</a>
                                 </li>
                                 <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">SIAKAD</a>
+                                    <a href="https://pmb.unibamadura.ac.id" onClick="return true">PMB</a>
                                 </li>
                                 <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">PMB</a>
+                                    <a href="https://lppm.unibamadura.ac.id" onClick="return true">LPPM</a>
                                 </li>
                                 <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">LPPM</a>
-                                </li>
-                                <li id="menu-item-3475"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
-                                    <a href="#" onClick="return true">PJM</a>
+                                    <a href="https://pjm.unibamadura.ac.id" onClick="return true">PJM</a>
                                 </li>
                                 {{-- <li id="menu-item-3475"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3475">
