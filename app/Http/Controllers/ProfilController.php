@@ -29,9 +29,8 @@ class ProfilController extends Controller
     public function staffDosenFeb()
     {
         $profil = Profil::where('category_profile_id', '4')->first();
-        $manajemen = ContentProfile::where('profil_id', $profil->id)->where('publish', '1')->where('title', 'MANAJEMEN')->get();
-        $akuntansi = ContentProfile::where('profil_id', $profil->id)->where('publish', '1')->where('title', 'AKUNTANSI')->get();
-        return view('guest.profil.profilstaffdosen.index', compact('profil', 'manajemen', 'akuntansi'));
+        $manajemen = ContentProfile::where('profil_id', $profil->id)->where('publish', '1')->where('title', 'BAHASA DAN KEBUDAYAAN INGGRIS')->get();
+        return view('guest.profil.profilstaffdosen.index', compact('profil', 'manajemen'));
     }
     public function fasilitas()
     {
