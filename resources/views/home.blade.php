@@ -247,9 +247,9 @@
                                         <div class="row">
                                             <div class="col-xl-6 text-center mb-5">
                                                 <div class="teaching-img-box-style2">
-                                                    <img src="{{ asset('images/uniba/PAKALVIN.png') }}"
+                                                    <img src="{{ asset('images/uniba/BULAILY.jpg') }}"
                                                         alt="Awesome Image"
-                                                        style="border-radius: 140px; width: 300px; height: 400px;">
+                                                        style="border-radius: 140px; width: 430px; height: 680px;">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6">
